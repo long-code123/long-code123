@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I have begun studying at Greenwich University Da Nang since 2020, majoring in Software Engineering
 - 📫 How to reach me:
-  - <a href="https://www.facebook.com/nguyenbalonng"/></a>
+  - <a href="https://www.facebook.com/nguyenbalonng"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  - <a href = "mailto:nguyenbalong250902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - 😄 Hobbies: football, programming (especially new technologies)
 
 # 💻 Tech Stack:
